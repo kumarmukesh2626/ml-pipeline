@@ -2,8 +2,8 @@ from setuptools import find_packages,setup
 from typing import List
 NAME="sensor"
 VERSION="0.0.1"
-AUTHOR="avnish"
-AUTHOR_EMAIL_ID="avnish@ineuron.ai"
+AUTHOR="Mukesh"
+AUTHOR_EMAIL_ID="mukesh.kumar@algo8.ai"
 REQUIREMENTS_FILE_NAME="requirements.txt"
 HYPHEN_E_DOT="-e ."
 
